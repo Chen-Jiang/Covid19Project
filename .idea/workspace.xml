@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1f0ca06-8cca-4743-889f-0132746588f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/case/dto/create-case.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/case/interfaces/case.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/case/schemas/case.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/LineChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/world_map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProjectId" id="1lVPsTck6Zm1D0bryU65aEmes2a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/backend/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1f0ca06-8cca-4743-889f-0132746588f4" name="Default Changelist" comment="" />
+      <created>1607679495084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607679495084</updated>
+      <workItem from="1607679497086" duration="8174000" />
+      <workItem from="1607765805455" duration="2779000" />
+      <workItem from="1607819984153" duration="7033000" />
+      <workItem from="1607995850026" duration="5821000" />
+      <workItem from="1608018837087" duration="5470000" />
+      <workItem from="1608159276390" duration="5144000" />
+      <workItem from="1608170228687" duration="1836000" />
+      <workItem from="1608191848514" duration="6316000" />
+      <workItem from="1608631337035" duration="58000" />
+      <workItem from="1608631400353" duration="2877000" />
+      <workItem from="1608687031581" duration="6870000" />
+      <workItem from="1608698135006" duration="8534000" />
+      <workItem from="1608777280168" duration="4886000" />
+      <workItem from="1608936910815" duration="54000" />
+      <workItem from="1608968078616" duration="7263000" />
+      <workItem from="1609018290109" duration="4704000" />
+      <workItem from="1609024925435" duration="730000" />
+      <workItem from="1609032343258" duration="6386000" />
+      <workItem from="1609041678975" duration="1361000" />
+      <workItem from="1609043768291" duration="2175000" />
+      <workItem from="1609060098468" duration="2310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
